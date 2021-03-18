@@ -1,0 +1,25 @@
+Saya Hendi Yahya mengerjakan evaluasi Tugas Praktikum 2 dalam mata kuliah
+Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak
+melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+Dalam mengerjakan TP ini, kesulitan yang saya dapatkan adalah :
+- Bingung menyambungkan Program dengan Database, tapi setelah mendapat referensi akhirnya saya bisa dengan menggunakan MySql Connector.
+- GUI yang muncul saat desain dan program berjalan berbeda, meskipun sudah menggunakan Look & Feel FlatLaf, program terus menampilkan dengan Nimbus.
+- Awalnya Tabel tidak merefresh saat mendapatkan data baru, tapi berhasil diatasi dengan menyimpan load_table() pada tombol table. 
+
+Hal Baru yang saya dapatkan saat mengerjakan TP ini adalah:
+- Mempelajari cara koneksi database MySql dari Java
+- Mempelajari pembuatan message box saat data masuk atau gagal
+- Mempelajari Cara Menambahkan Gambar ke Interface
+- Mempelajari penggunaan isEmpty() untuk melakukan validasi form belum terisi
+
+Fitur yang Sudah Dikerjakan
+- Landing Page yang Menampilkan "Selamat Datang"
+- Navigasi Menu Form, Table dan Info dalam bentuk tombol
+- Koneksi Database Menggunakan Library MySql Connector
+- Pesan Error dan Sukses saat Input Data
+- Form Input data Ke Database
+- Tabel menampilkan data dari Database
+- Validasi input Form
+- Panel Info berisi Nama, NIM dan Foto
+
